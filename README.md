@@ -4,6 +4,6 @@
 
 
 
-![1](C:\Users\11235\Desktop\blog\public\1.png)
+![1](https://github.com/swifft/BlogTemplate/blob/master/public/1.png)
 
 ![2](C:\Users\11235\Desktop\blog\public\2.png)
