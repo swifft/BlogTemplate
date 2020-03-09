@@ -6,4 +6,4 @@
 
 ![1](https://github.com/swifft/BlogTemplate/blob/master/public/1.png)
 
-![2](C:\Users\11235\Desktop\blog\public\2.png)
+![2](https://github.com/swifft/BlogTemplate/blob/master/public/2.png)
